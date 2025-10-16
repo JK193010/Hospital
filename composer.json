@@ -1,0 +1,12 @@
+{
+    "name": "nicknjue/HSPR",
+    "description": "Hospital Administration System project",
+    "autoload": {
+        "psr-4": {
+            "nicknjue\\HSPR\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
